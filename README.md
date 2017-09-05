@@ -2,7 +2,7 @@
 整理自己学习用到的资料，链接等
 
 ## Dagger 2
-[官网](https://google.github.io/dagger/)： https://google.github.io/dagger/
+[官网](https://google.github.io/dagger/)
 
 [Android：dagger2让你爱不释手-基础依赖注入框架篇](http://www.jianshu.com/p/cd2c1c9f68d4)：重点讲解基础原理不包含代码，对于理解dagger很有帮助
 
