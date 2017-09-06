@@ -9,7 +9,9 @@
 
 [为什么网上这么多dagger2教程，我还写了这篇文章](http://www.open-open.com/lib/view/open1474442495481.html)：比较系统，结合例子去敲敲代码仔细体会
 
-[Dagger 2 完全解析系列](http://johnnyshieh.me/posts/dagger-basic/)：此系列更为系统详细，其中用法用途颇为详细
+[Dagger 2 完全解析系列](http://johnnyshieh.me/posts/dagger-basic/)：此系列更为系统详细，其中用法用途颇为详细，目前看来最通俗易懂，最贴合官方文档的博客
+
+[Dagger 2应用于Android的完美扩展库-dagger.android](http://blog.csdn.net/io_field/article/details/71730248) ：google接管dagger后为了完美应用在android上研发了dagger-android，此博客是对dagger-android库的讲解（最好结合dagger-android源码去看，更容易理解）
 
 感谢以上作者帮我走出迷雾。
 
