@@ -17,3 +17,6 @@
 ## 架构相关 ##
 
 [google推荐框架](https://github.com/googlesamples/android-architecture)
+
+## Git ##
+[git flow](http://www.cnblogs.com/cnblogsfans/p/5075073.html)
