@@ -8,6 +8,6 @@
 
 [为什么网上这么多dagger2教程，我还写了这篇文章](http://www.open-open.com/lib/view/open1474442495481.html)：比较系统，结合例子去敲敲代码仔细体会
 
-[agger 2 完全解析系列](http://johnnyshieh.me/posts/dagger-basic/)：此系列更为系统详细，其中用法用途颇为详细
+[Dagger 2 完全解析系列](http://johnnyshieh.me/posts/dagger-basic/)：此系列更为系统详细，其中用法用途颇为详细
 
 感谢以上作者帮我走出迷雾
