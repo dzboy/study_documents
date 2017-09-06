@@ -19,4 +19,4 @@
 [google推荐框架](https://github.com/googlesamples/android-architecture)
 
 ## Git ##
-[git flow](http://www.cnblogs.com/cnblogsfans/p/5075073.html)
+[git flow](http://www.cnblogs.com/cnblogsfans/p/5075073.html) ：使用git工具进行版本管理的建议规范
