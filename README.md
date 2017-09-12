@@ -38,3 +38,7 @@
 [高效使用AndroidStudio常用快捷操作](http://blog.csdn.net/true100/article/details/53307685)
 
 [50个安卓开发者应该熟悉的Android Studio技巧和资源](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/1116/6776.html)
+
+## View ##
+
+[TextView里画世界——ReplacementSpan实践](http://blog.csdn.net/u012735483/article/details/52902047)
