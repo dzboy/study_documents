@@ -23,9 +23,16 @@
 [google推荐框架](https://github.com/googlesamples/android-architecture)
 
 ## Git ##
+
 [git flow](http://www.cnblogs.com/cnblogsfans/p/5075073.html) ：使用git工具进行版本管理的建议规范
 
 ## RxJava/RxAndroid ##
+
 [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 
 ## Lottie ##
+
+
+## IDE ##
+
+[高效使用AndroidStudio常用快捷操作](http://blog.csdn.net/true100/article/details/53307685)
