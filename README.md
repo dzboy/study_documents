@@ -36,4 +36,5 @@
 ## IDE ##
 
 [高效使用AndroidStudio常用快捷操作](http://blog.csdn.net/true100/article/details/53307685)
+
 [50个安卓开发者应该熟悉的Android Studio技巧和资源](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/1116/6776.html)
