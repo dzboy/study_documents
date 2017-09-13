@@ -32,6 +32,8 @@
 
 [RxJava2 vs RxJava1](http://www.jianshu.com/p/850af4f09b61)：原文([What's different in 2.0](https://github.com/ReactiveX/RxJava/wiki/What's-different-in-2.0))
 
+[ReactiveX/RxJava-Wiki](https://github.com/ReactiveX/RxJava/wiki)
+
 ## Lottie ##
 
 
