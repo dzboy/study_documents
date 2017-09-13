@@ -30,6 +30,8 @@
 
 [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 
+[RxJava2 vs RxJava1](http://www.jianshu.com/p/850af4f09b61)
+
 ## Lottie ##
 
 
