@@ -34,6 +34,8 @@
 
 [ReactiveX/RxJava-Wiki](https://github.com/ReactiveX/RxJava/wiki)
 
+[ReactiveX/RxJava文档中文版](https://mcxiaoke.gitbooks.io/rxdocs/)
+
 ## Lottie ##
 
 
