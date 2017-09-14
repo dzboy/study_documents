@@ -50,3 +50,7 @@
 [TextView里画世界——ReplacementSpan实践](http://blog.csdn.net/u012735483/article/details/52902047)
 
 [Spans，一个强大的概念](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0305/2535.html)
+
+## 直播 ##
+
+[来疯直播安卓控件](https://github.com/LaiFeng-Android/SopCastComponent)
