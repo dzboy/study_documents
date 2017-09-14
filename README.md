@@ -36,6 +36,8 @@
 
 [ReactiveX/RxJava文档中文版](https://mcxiaoke.gitbooks.io/rxdocs/)
 
+[RxJava 2.0中backpressure(背压)概念的理解](http://blog.csdn.net/jdsjlzx/article/details/52717636)
+
 ## Lottie ##
 
 
