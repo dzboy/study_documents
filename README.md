@@ -38,6 +38,8 @@
 
 [RxJava 2.0中backpressure(背压)概念的理解](http://blog.csdn.net/jdsjlzx/article/details/52717636)
 
+[NotRxJava懒人专用指南](http://www.devtf.cn/?p=323) ：自己实现Rx，深入理解内部原理
+
 ## Lottie ##
 
 
