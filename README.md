@@ -58,3 +58,6 @@
 ## 直播 ##
 
 [来疯直播安卓控件](https://github.com/LaiFeng-Android/SopCastComponent)
+
+## Yii ##
+[Yii中文文档](http://www.yiichina.com/doc/guide/2.0/start-installation)
